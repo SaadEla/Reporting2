@@ -1,5 +1,7 @@
 # jpco
 
+Reporting 1 and Reporting 2 are two projects for monitoring instant reports and planning long-term reports
+
 ## Project setup
 ```
 npm install
